@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Zilla+Slab:ital,wght@0,300;1,700&display=swap');
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background-color: #9e9e9e;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nome-cantora {
+    margin-top:50px;
+    font-family: 'Pushster', cursive;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.habilidades {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.biografia {
+    display: flex;
+    flex-direction: column;
+}
+
+.biografia-separada {
+    margin-bottom: 40px;
+}
+
+.imagem-taylor {
+    height:400px;
+    width:600px;
+    display: flex;
+    align-self: center;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.fatos {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 300;
+    font-size: 17px;
+    list-style-type:circle;
+    list-style-position: inside;
+}
+
+.discografia-filme, albuns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    font-family: 'Zilla Slab', serif;
+    font-size: 18px;
+    font-weight: bold;
+    list-style: none;
+    margin-top: 10px;;
+}
+
+.albuns-2 {
+    margin-left: 18px;
+}
+
+.albuns-lançados {
+    list-style:none;
+    font-size: 15px;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 300;
+    margin-left: 0px;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid white;
+    padding-top: 20px;
+}
+
+.frase {
+    margin-bottom: 20px;
+    font-family:'Zilla Slab', serif;
+    font-weight: 700;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feito-por {
+    border-top: 2px solid white;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 0px;
+}
