@@ -8,8 +8,7 @@
 
 <h3> Esta é uma curta biografia sobre a vida e as conquistas da famosa cantora Taylor Swift. Eu a escolhi para fazer a biografia devido ao crescimento acelerado de sua carreira e aos prêmios que ela conquistou com seu esforço. Seu interesse pela música começou na adolescência e sempre buscou oportunidades para mostrar seu talento, até que um dia foi reconhecida. </h3>
 
-<h2 align="center"> Telas <h2>
-<img src="Desafio/assets/images/tela1.png">
-<img src="Desafio/assets/images/tela2.png">
+<h2 align="center"> LINK <h2>
+  <h3 align=center https://lucimarasouzah.github.io/BiografyTaylorSwift/</h3>
 
 <h1 align="center"> Obrigada pela atenção ❤</h1>
